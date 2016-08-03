@@ -9,14 +9,10 @@ permalink: /data/
 # Index of Data Sets
 
 ## Main repositories of data:
-- City of Los Angeles
-* https://data.lacity.org/
-- County of Los Angeles
-* https://data.lacounty.gov/
-- State of California
-* https://greengov.data.ca.gov/
-- U.S. Government
-* https://www.data.gov/
+- [City of Los Angeles](https://data.lacity.org/)
+- [County of Los Angeles](https://data.lacounty.gov/)
+- [State of California](https://greengov.data.ca.gov/)
+- [U.S. Government](https://www.data.gov/)
 
 ## General reference documents:
 * [County of Los Angeles Homeless Initiative](http://priorities.lacounty.gov/wp-content/uploads/2016/01/Draft-Recommendations.pdf) (PDF)
